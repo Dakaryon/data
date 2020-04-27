@@ -1,4 +1,4 @@
-nom,nom_parent,xpath
+nom,nom_parent,css
 MIQ2-Gr1,MIQ2,#Direct\ Planning\ Tree_1753 > div:nth-child(1) > span:nth-child(5)
 MIQ2-Gr1 DI,MIQ2,#Direct\ Planning\ Tree_582 > div:nth-child(1) > span:nth-child(5)
 MIQ2-Gr2,MIQ2,#Direct\ Planning\ Tree_1110 > div:nth-child(1) > span:nth-child(5)
