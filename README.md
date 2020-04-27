@@ -6,7 +6,7 @@ Vous pouvez ajouter votre edt a synchroniser sur l'application en editant ce git
 
 Pour cela il faut reperer le chemin complet vers votre edt. Ex : Stagiaires/MIQ3/MIQ3-GR1/MIQ3-Gr1-P
                                                                    
-Pour chacun des elements ci dessus est a completer dans :   dossier_principaux   classes  groupes   edt
+Pour chacun des elements ci dessus est a completer respectivemens dans : dossier_principaux.csv, classes.csv, groupes.csv, edt.csv
                                                              
 
 REMARQUE IL SE PEUT QUE VOTRE DOSSIER SOIT DEJA COMPLETE EN PARTIE NE PAS CREER DE DOUBLON SVP
